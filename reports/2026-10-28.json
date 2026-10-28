@@ -1,16 +1,17 @@
 {
  "date": "2026-10-28",
- "checked": "2026-10-28T09:44+02:00",
+ "checked": "2026-10-28T09:48+02:00",
  "sources": {
   "zaplata.bg": 376,
   "Himalayas": 278,
-  "Jobicy": 100,
   "Remote OK": 99,
   "Working Nomads": 41,
-  "We Work Remotely": 95,
-  "Remotive": 11
+  "We Work Remotely": 95
  },
- "errors": [],
+ "errors": [
+  "Jobicy: TimeoutError: The read operation timed out",
+  "Remotive: TimeoutError: The read operation timed out"
+ ],
  "sections": [
   {
    "title": "На български или търсят български език",
