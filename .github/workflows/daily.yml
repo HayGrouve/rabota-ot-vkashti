@@ -1,0 +1,59 @@
+name: Daily job search
+
+on:
+  schedule:
+    - cron: "0 5 * * *"  # 07:00 in Sofia in winter, 08:00 in summer; GitHub may start it a little late
+  workflow_dispatch:     # "Run workflow" button: run the search now
+  push:
+    branches: [main]     # code changes: rebuild the page from the saved data, no search
+
+permissions:
+  contents: write  # push the day's results to the data branch
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-job-search
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      JOBWATCH_DATA: data
+      JOBWATCH_SITE: site
+    steps:
+      - uses: actions/checkout@v7
+      - name: Check out saved data (data branch)
+        uses: actions/checkout@v7
+        with:
+          ref: data
+          path: data
+
+      - name: Search for new jobs
+        if: github.event_name != 'push'
+        run: python3 -I job_watch.py
+      - name: Rebuild the page only
+        if: github.event_name == 'push'
+        run: python3 -I build_page.py
+
+      - name: Save results to the data branch
+        if: github.event_name != 'push'
+        working-directory: data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -q -m "Job search $(TZ=Europe/Sofia date +%F)"
+          git push -q origin HEAD:data
+
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v5

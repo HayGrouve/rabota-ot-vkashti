@@ -1,0 +1,8 @@
+__pycache__/
+*.log
+site/
+# Daily data lives on the `data` branch; local copies stay out of main.
+reports/
+seen.json
+jobs.json
+ads_cache.json
