@@ -1,0 +1,79 @@
+{
+ "date": "2026-10-28",
+ "checked": "2026-10-28T09:44+02:00",
+ "sources": {
+  "zaplata.bg": 376,
+  "Himalayas": 278,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 41,
+  "We Work Remotely": 95,
+  "Remotive": 11
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/talent-sam/jobs/data-entry-specialist-9653458871",
+     "url": "https://himalayas.app/companies/talent-sam/jobs/data-entry-specialist-9653458871",
+     "title": "Data Entry Specialist",
+     "company": "Talent Sam",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-27",
+     "until": "2026-12-26",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 5.0,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-10-28",
+     "last_seen": "2026-10-28"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/offshore-launch/jobs/customer-service-and-dispatcher",
+     "url": "https://himalayas.app/companies/offshore-launch/jobs/customer-service-and-dispatcher",
+     "title": "Customer Service and Dispatcher",
+     "company": "Offshore Launch",
+     "city": "Worldwide",
+     "salary": "1450–1450 USD/мес.",
+     "posted": "2026-10-27",
+     "until": "2026-11-23",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Диспечер / логистика",
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква 2+ г. опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 5.7,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-10-28",
+     "last_seen": "2026-10-28"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,770 @@
+{
+ "date": "2026-10-27",
+ "sources": {
+  "zaplata.bg": 378,
+  "Himalayas": 275,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 40,
+  "We Work Remotely": 95,
+  "Remotive": 10
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/welo-global/jobs/shape-the-future-of-ai-bulgarian-talent-hub",
+     "url": "https://himalayas.app/companies/welo-global/jobs/shape-the-future-of-ai-bulgarian-talent-hub",
+     "title": "Shape the Future of AI — Bulgarian Talent Hub",
+     "company": "Welo Global",
+     "city": "Bulgaria",
+     "salary": "",
+     "posted": "2026-10-02",
+     "until": "2026-12-01",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": true,
+     "no_experience": false,
+     "effort": -0.8,
+     "level": "Лесна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/welocalize/jobs/bulgarian-gen-ai-trainer",
+     "url": "https://himalayas.app/companies/welocalize/jobs/bulgarian-gen-ai-trainer",
+     "title": "Bulgarian Gen AI Trainer",
+     "company": "Welocalize",
+     "city": "Bulgaria",
+     "salary": "",
+     "posted": "2026-10-17",
+     "until": "2026-12-16",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": true,
+     "no_experience": false,
+     "effort": -0.6,
+     "level": "Лесна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/welo-global/jobs/ads-quality-rater-bulgarian-bulgaria",
+     "url": "https://himalayas.app/companies/welo-global/jobs/ads-quality-rater-bulgarian-bulgaria",
+     "title": "Ads Quality Rater - Bulgarian (Bulgaria)",
+     "company": "Welo Global",
+     "city": "Bulgaria",
+     "salary": "",
+     "posted": "2026-10-01",
+     "until": "2026-11-30",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": true,
+     "no_experience": false,
+     "effort": 0.1,
+     "level": "Лесна",
+     "hours": "part"
+    }
+   ]
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/video-annotation-specialist-8887572920",
+     "url": "https://himalayas.app/companies/micro1/jobs/video-annotation-specialist-8887572920",
+     "title": "Video Annotation Specialist",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-02",
+     "until": "2026-12-01",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": -1.6,
+     "level": "Лесна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/customer-service-expert",
+     "url": "https://himalayas.app/companies/micro1/jobs/customer-service-expert",
+     "title": "Customer Service Expert",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-04",
+     "until": "2026-12-03",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": -1.4,
+     "level": "Лесна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/xperteez-technology/jobs/video-annotation-specialist-remote-contract",
+     "url": "https://himalayas.app/companies/xperteez-technology/jobs/video-annotation-specialist-remote-contract",
+     "title": "Video Annotation Specialist | Remote - Contract",
+     "company": "Xperteez Technology",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-03",
+     "until": "2026-12-01",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": -1.4,
+     "level": "Лесна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/video-data-annotation-specialist",
+     "url": "https://himalayas.app/companies/micro1/jobs/video-data-annotation-specialist",
+     "title": "Video Data Annotation Specialist",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-09-24",
+     "until": "2026-11-23",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция",
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": -1.4,
+     "level": "Лесна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/video-data-annotator-966806508",
+     "url": "https://himalayas.app/companies/micro1/jobs/video-data-annotator-966806508",
+     "title": "Video Data Annotator",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-10",
+     "until": "2026-12-09",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция",
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": -1.4,
+     "level": "Лесна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/xperteez-technology/jobs/data-annotator-remote-contract",
+     "url": "https://himalayas.app/companies/xperteez-technology/jobs/data-annotator-remote-contract",
+     "title": "Data Annotator | Remote - Contract",
+     "company": "Xperteez Technology",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-03",
+     "until": "2026-12-02",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция",
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": -1.2,
+     "level": "Лесна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/xperteez-technology/jobs/video-data-annotator-remote-contract",
+     "url": "https://himalayas.app/companies/xperteez-technology/jobs/video-data-annotator-remote-contract",
+     "title": "Video Data Annotator, Remote- Contract",
+     "company": "Xperteez Technology",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-15",
+     "until": "2026-12-14",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция",
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": -1.2,
+     "level": "Лесна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/onepilot/jobs/customer-service-representative",
+     "url": "https://himalayas.app/companies/onepilot/jobs/customer-service-representative",
+     "title": "Customer service representative",
+     "company": "Onepilot",
+     "city": "Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden",
+     "salary": "",
+     "posted": "2026-10-05",
+     "until": "2026-11-04",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -1.0,
+     "level": "Лесна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Remote OK",
+     "key": "Remote OK:1137512",
+     "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
+     "title": "Customer Support Specialist",
+     "company": "Ultimate Marketing",
+     "city": "",
+     "salary": "50000–90000 USD/год.",
+     "posted": "2026-10-14",
+     "until": "",
+     "remote": true,
+     "kind": "",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "не е посочено от кои държави"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 0.8,
+     "level": "Лесна",
+     "hours": ""
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/xperteez-technology/jobs/data-entry-keyer-remote-contract",
+     "url": "https://himalayas.app/companies/xperteez-technology/jobs/data-entry-keyer-remote-contract",
+     "title": "Data Entry Keyer | Remote - Contract",
+     "company": "Xperteez Technology",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-02",
+     "until": "2026-12-01",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "изисква отличен английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": 0.9,
+     "level": "Лесна",
+     "hours": "part"
+    },
+    {
+     "source": "Remote OK",
+     "key": "Remote OK:1137547",
+     "url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+     "title": "Customer Support Consultant hospitality",
+     "company": "SupportYourApp",
+     "city": "",
+     "salary": "",
+     "posted": "2026-10-19",
+     "until": "",
+     "remote": true,
+     "kind": "",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "изисква отличен английски",
+      "не е посочено от кои държави"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 1.9,
+     "level": "Средна",
+     "hours": "part"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/your-personal-ai/jobs/freelancer-support-specialist",
+     "url": "https://himalayas.app/companies/your-personal-ai/jobs/freelancer-support-specialist",
+     "title": "Freelancer Support Specialist",
+     "company": "Your Personal AI",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-19",
+     "until": "2026-12-18",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква 1+ г. опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "part"
+    },
+    {
+     "source": "Remotive",
+     "key": "Remotive:2091161",
+     "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+     "title": "AI Trainer - Video Annotation",
+     "company": "iMerit Technology",
+     "city": "Worldwide",
+     "salary": "70K-80K",
+     "posted": "2026-10-22",
+     "until": "",
+     "remote": true,
+     "kind": "freelance",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "изисква опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.3,
+     "level": "Средна",
+     "hours": "freelance"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/your-personal-ai/jobs/administrative-coordinator-annotation-data-collection-projects",
+     "url": "https://himalayas.app/companies/your-personal-ai/jobs/administrative-coordinator-annotation-data-collection-projects",
+     "title": "Administrative Coordinator – Annotation & Data Collection Projects",
+     "company": "Your Personal AI",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-08",
+     "until": "2026-12-07",
+     "remote": true,
+     "kind": "Part Time",
+     "roles": [
+      "AI / транскрипция",
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "изисква опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.4,
+     "level": "Средна",
+     "hours": "part"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/customer-service-representative",
+     "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/customer-service-representative",
+     "title": "Customer Service Representative",
+     "company": "EdgeQ Technologies Private Limited",
+     "city": "Worldwide",
+     "salary": "32000–48000 USD/год.",
+     "posted": "2026-10-27",
+     "until": "2026-12-26",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 3.1,
+     "level": "Средна",
+     "hours": "full"
+    },
+    {
+     "source": "Working Nomads",
+     "key": "Working Nomads:https://www.workingnomads.com/job/go/1939843/",
+     "url": "https://www.workingnomads.com/job/go/1939843/",
+     "title": "AI Trainer",
+     "company": "iMerit Technology",
+     "city": "United states, Norway, United Kingdom, Sweden, New Zealand, Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Czech Republic, Denmark, Dominican Republic, Estonia, Finland, Germany, Greece, Hungary, India, Indonesia, Ireland,",
+     "salary": "",
+     "posted": "2026-10-14",
+     "until": "",
+     "remote": true,
+     "kind": "",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "изисква опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 3.3,
+     "level": "Средна",
+     "hours": ""
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/sharecare/jobs/customer-service-representative-remote-1832276311",
+     "url": "https://himalayas.app/companies/sharecare/jobs/customer-service-representative-remote-1832276311",
+     "title": "Customer Service Representative - Remote",
+     "company": "Sharecare",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-20",
+     "until": "2026-12-19",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 4.0,
+     "level": "Средна",
+     "hours": "full"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking",
+     "url": "https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking",
+     "title": "Junior Dispatcher (Remote) | USA Trucking",
+     "company": "Spotter Labs",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-20",
+     "until": "2026-11-19",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Диспечер / логистика"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "работа по американско време, проверете часовете"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 4.2,
+     "level": "По-трудна",
+     "hours": "full"
+    },
+    {
+     "source": "We Work Remotely",
+     "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist",
+     "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist",
+     "title": "Customer Support Specialist",
+     "company": "Mercury",
+     "city": "Anywhere in the World",
+     "salary": "",
+     "posted": "26 Oct 2026",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква 2+ г. опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 4.4,
+     "level": "По-трудна",
+     "hours": "full"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/spotter-labs/jobs/afterhours-driver-support-specialist-1423288814",
+     "url": "https://himalayas.app/companies/spotter-labs/jobs/afterhours-driver-support-specialist-1423288814",
+     "title": "Afterhours Driver Support Specialist",
+     "company": "Spotter Labs",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-02",
+     "until": "2026-10-30",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "има нощни смени"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 4.5,
+     "level": "По-трудна",
+     "hours": "full"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/wellcove-chcs-services/jobs/contact-center-csr-1-customer-service-representative-1",
+     "url": "https://himalayas.app/companies/wellcove-chcs-services/jobs/contact-center-csr-1-customer-service-representative-1",
+     "title": "Contact Center - CSR-1 - Customer Service Representative 1",
+     "company": "Wellcove CHCS Services",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-12",
+     "until": "2026-12-11",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 5.0,
+     "level": "По-трудна",
+     "hours": "full"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/supportyourapp/jobs/fluent-english-customer-support-consultant-eu-remote",
+     "url": "https://himalayas.app/companies/supportyourapp/jobs/fluent-english-customer-support-consultant-eu-remote",
+     "title": "(fluent English) Customer Support Consultant (EU, remote)",
+     "company": "SupportYourApp",
+     "city": "Bulgaria",
+     "salary": "",
+     "posted": "2026-10-27",
+     "until": "2026-12-26",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "изисква отличен английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 6.7,
+     "level": "По-трудна",
+     "hours": "full"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/foodliteracyproject/jobs/hospitality-support-specialist",
+     "url": "https://himalayas.app/companies/foodliteracyproject/jobs/hospitality-support-specialist",
+     "title": "Hospitality Support Specialist",
+     "company": "Foodliteracyproject",
+     "city": "Worldwide",
+     "salary": "47000–65000 USD/год.",
+     "posted": "2026-10-07",
+     "until": "2026-12-06",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква 2+ г. опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 6.9,
+     "level": "По-трудна",
+     "hours": "full"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/offshore-launch/jobs/dispatcher",
+     "url": "https://himalayas.app/companies/offshore-launch/jobs/dispatcher",
+     "title": "Dispatcher",
+     "company": "Offshore Launch",
+     "city": "Worldwide",
+     "salary": "1450–1450 USD/мес.",
+     "posted": "2026-10-24",
+     "until": "2026-11-23",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Диспечер / логистика"
+     ],
+     "flags": [
+      "изисква 2+ г. опит",
+      "обявата е на английски",
+      "изисква отличен английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 7.0,
+     "level": "По-трудна",
+     "hours": "full"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/zelh/jobs/customer-service-representative-1147142458",
+     "url": "https://himalayas.app/companies/zelh/jobs/customer-service-representative-1147142458",
+     "title": "Customer Service Representative",
+     "company": "Zelh",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-14",
+     "until": "2026-12-13",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква опит",
+      "обявата е на английски",
+      "работа по американско време, проверете часовете"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 7.1,
+     "level": "По-трудна",
+     "hours": "full"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/citiside-property-management/jobs/customer-care-specialist",
+     "url": "https://himalayas.app/companies/citiside-property-management/jobs/customer-care-specialist",
+     "title": "Customer Care Specialist",
+     "company": "Citiside Property Management",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-26",
+     "until": "2026-12-07",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква 1+ г. опит",
+      "обявата е на английски",
+      "изисква отличен английски",
+      "работа по американско време, проверете часовете"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 8.1,
+     "level": "По-трудна",
+     "hours": "full"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/ricaris/jobs/call-line-specialist-customer-support-remote-english-speaking",
+     "url": "https://himalayas.app/companies/ricaris/jobs/call-line-specialist-customer-support-remote-english-speaking",
+     "title": "Call Line Specialist | Customer Support | Remote – English Speaking",
+     "company": "Ricaris",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-07",
+     "until": "2026-12-06",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква опит",
+      "обявата е на английски",
+      "работа по американско време, проверете часовете"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 8.3,
+     "level": "По-трудна",
+     "hours": "full"
+    }
+   ]
+  }
+ ]
+}
