@@ -58,15 +58,23 @@ PAGE = r"""<!doctype html>
   /* Day header */
   .day-head h2 { font-size: 24px; line-height: 1.25; margin: 0 0 4px; }
   .day-head .summary { margin: 0 0 18px; color: var(--muted); }
-  .toolbar { display: flex; flex-wrap: wrap; gap: 8px 24px; align-items: center; padding: 12px 0;
-             border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); margin-bottom: 8px; }
-  .jump { display: flex; gap: 8px; flex-wrap: wrap; }
-  .jump a { padding: 6px 12px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface);
-            color: var(--ink); text-decoration: none; font-size: 15px; }
-  .jump a:hover { border-color: var(--accent); color: var(--accent); }
-  .filters { display: flex; gap: 20px; flex-wrap: wrap; margin-left: auto; font-size: 15px; color: var(--muted); }
-  .filters label { display: flex; align-items: center; gap: 8px; cursor: pointer; }
-  .filters input { width: 18px; height: 18px; accent-color: var(--accent); margin: 0; }
+  /* One row: which group to show (segmented radios) on the left, the closed-jobs checkbox on the right. */
+  .toolbar { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; justify-content: space-between;
+             padding: 12px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); margin-bottom: 8px; }
+  .show { display: inline-flex; gap: 2px; min-width: 0; margin: 0; padding: 3px; border: 1px solid var(--line);
+          border-radius: var(--radius); background: var(--surface); }
+  .show legend { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  .show label { position: relative; display: flex; align-items: baseline; justify-content: center; gap: 6px;
+                padding: 6px 12px; border-radius: 6px; font-size: 15px; font-weight: 500; color: var(--muted);
+                cursor: pointer; text-align: center; }
+  .show label:hover { color: var(--ink); }
+  .show input { position: absolute; opacity: 0; width: 1px; height: 1px; margin: 0; }
+  .show label:has(input:checked) { background: var(--accent-soft); color: var(--accent); }
+  .show label:has(input:focus-visible) { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .show .n { color: var(--faint); font-variant-numeric: tabular-nums; }
+  .show label:has(input:checked) .n { color: var(--accent); }
+  .filter { display: flex; align-items: center; gap: 8px; font-size: 15px; color: var(--muted); cursor: pointer; }
+  .filter input { width: 18px; height: 18px; accent-color: var(--accent); margin: 0; }
 
   /* Sections and jobs */
   section { margin-top: 28px; }
@@ -101,7 +109,8 @@ PAGE = r"""<!doctype html>
     .days h2 { margin-top: 12px; }
     .days ol { display: flex; overflow-x: auto; gap: 6px; padding-bottom: 4px; }
     .days a { white-space: nowrap; border: 1px solid var(--line); background: var(--surface); }
-    .filters { margin-left: 0; }
+    .show { display: flex; width: 100%; }
+    .show label { flex: 1; flex-direction: column; align-items: center; gap: 0; padding: 6px 8px; line-height: 1.3; }
     .job { grid-template-columns: 1fr; padding: 14px 16px; }
     .job .salary { text-align: left; order: 2; }
   }
@@ -129,13 +138,14 @@ PAGE = r"""<!doctype html>
   const today = new Date().toLocaleDateString("sv-SE");  // local YYYY-MM-DD
   const latest = reports[0];
   const activeKeys = new Set(active.map((j) => j.key));
-  const prefs = { hideClosed: true, onlyBg: false };
+  const prefs = { hideClosed: true, show: "all" };  // show: "all", "bg" (section 0) or "en" (section 1)
   const isDate = (h) => /^\d{4}-\d{2}-\d{2}$/.test(h);
   // "now" (jobs still listed) or a report date; section jump links (#s0) leave it as it is.
   const viewOf = (h) => (h === "" || h === "now") ? "now" : isDate(h) ? h : null;
   let currentView = viewOf(location.hash.slice(1)) || "now";
   const HOURS = { part: "непълно или гъвкаво време", freelance: "на свободна практика", full: "пълно работно време" };
   const SECTION_LABELS = ["Търсят български език", "Обяви на английски"];
+  const SHOW_OPTIONS = [["all", "Всички"], ["bg", "Търсят български"], ["en", "На английски"]];
   const SECTION_HINTS = [
     "Най-добрият шанс: работодателят търси човек с роден български език. Подредени от най-лесните.",
     "Изискват добър английски. Подредени от най-лесните.",
@@ -212,8 +222,10 @@ PAGE = r"""<!doctype html>
   function renderView(v) {
     const sections = v.sections.map((jobs, i) => ({
       i, id: "s" + i, label: SECTION_LABELS[i], hint: SECTION_HINTS[i],
-      jobs: jobs.filter((j) => (!prefs.hideClosed || !closed(j)) && (!prefs.onlyBg || j.bulgarian)),
+      jobs: jobs.filter((j) => !prefs.hideClosed || !closed(j)),
     }));
+    const counts = { all: sections.reduce((a, s) => a + s.jobs.length, 0), bg: sections[0].jobs.length, en: sections[1].jobs.length };
+    const shown = sections.filter((s) => prefs.show === "all" || prefs.show === (s.i === 0 ? "bg" : "en"));
     const all = sections.flatMap((s) => s.jobs);
     const easy = all.filter((j) => j.no_experience).length;
     const fresh = v.isNow ? all.filter((j) => j.first_seen === latest.date).length : 0;
@@ -232,13 +244,14 @@ PAGE = r"""<!doctype html>
         <p class="summary">${summary}</p>
       </div>
       <div class="toolbar">
-        <div class="jump">${sections.map((s) => `<a href="#${s.id}">${esc(s.label)} (${s.jobs.length})</a>`).join("")}</div>
-        <div class="filters">
-          <label><input type="checkbox" id="onlyBg" ${prefs.onlyBg ? "checked" : ""}> Само търсещи български</label>
-          <label><input type="checkbox" id="hideClosed" ${prefs.hideClosed ? "checked" : ""}> Скрий затворените</label>
-        </div>
+        <fieldset class="show">
+          <legend>Покажи</legend>
+          ${SHOW_OPTIONS.map(([value, label]) => `<label><input type="radio" name="show" value="${value}"
+            ${prefs.show === value ? "checked" : ""}><span>${label}</span><span class="n">${counts[value]}</span></label>`).join("")}
+        </fieldset>
+        <label class="filter"><input type="checkbox" id="hideClosed" ${prefs.hideClosed ? "checked" : ""}> Скрий затворените</label>
       </div>
-      ${sections.filter((s) => !(prefs.onlyBg && s.i > 0)).map((s) => `
+      ${shown.map((s) => `
         <section id="${s.id}" aria-labelledby="${s.id}-h">
           <h3 id="${s.id}-h">${esc(s.label)}</h3>
           <p class="hint">${esc(s.hint)}</p>
@@ -252,7 +265,10 @@ PAGE = r"""<!doctype html>
           изисквания и работни програми се изброяват, дали работата е на пълно работно време, нощем или по американско време.</p>
         ${(r.errors || []).length ? `<p>Неуспешни проверки: ${r.errors.slice(0, 3).map(esc).join("; ")}.</p>` : ""}
       </div>`;
-    ["onlyBg", "hideClosed"].forEach((id) => $(id).addEventListener("change", (e) => { prefs[id] = e.target.checked; render(); }));
+    document.querySelectorAll('input[name="show"]').forEach((el) => el.addEventListener("change", (e) => {
+      prefs.show = e.target.value; render(); document.querySelector(`input[name="show"][value="${prefs.show}"]`).focus();
+    }));
+    $("hideClosed").addEventListener("change", (e) => { prefs.hideClosed = e.target.checked; render(); $("hideClosed").focus(); });
   }
 
   function render() {
