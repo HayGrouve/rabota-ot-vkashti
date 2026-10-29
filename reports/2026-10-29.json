@@ -1,0 +1,160 @@
+{
+ "date": "2026-10-29",
+ "checked": "2026-10-29T13:13+02:00",
+ "sources": {
+  "zaplata.bg": 376,
+  "Himalayas": 231,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 41,
+  "We Work Remotely": 97,
+  "Remotive": 12
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": [
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:157764",
+     "url": "https://jobicy.com/jobs/157764-ads-quality-rater-bulgarian-bulgaria-2",
+     "title": "Ads Quality Rater - Bulgarian (Bulgaria)",
+     "company": "Welo Global",
+     "city": "Bulgaria",
+     "salary": "7–7 USD",
+     "posted": "2026-10-29",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": true,
+     "no_experience": false,
+     "effort": 0.1,
+     "level": "Лесна",
+     "hours": "part",
+     "first_seen": "2026-10-29",
+     "last_seen": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/foundever/jobs/remote-customer-care-specialist-mit-deutsch-und-englisch-sofia-bulgaria-bg",
+     "url": "https://himalayas.app/companies/foundever/jobs/remote-customer-care-specialist-mit-deutsch-und-englisch-sofia-bulgaria-bg",
+     "title": "Remote Customer Care Specialist mit Deutsch und Englisch (Sofia, Bulgaria, BG)",
+     "company": "Foundever",
+     "city": "Bulgaria",
+     "salary": "",
+     "posted": "2026-10-24",
+     "until": "2026-12-23",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.0,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-10-29",
+     "last_seen": "2026-10-29"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:157769",
+     "url": "https://jobicy.com/jobs/157769-ai-trainers-network-amharic",
+     "title": "AI Trainers Network - Amharic",
+     "company": "Welo Global",
+     "city": "Europe",
+     "salary": "",
+     "posted": "2026-10-29",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-10-29",
+     "last_seen": "2026-10-29"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert",
+     "url": "https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert",
+     "title": "Music & Sound Annotation Expert",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-10-28",
+     "until": "2026-12-27",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "изисква 3+ г. опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.4,
+     "level": "Средна",
+     "hours": "freelance",
+     "first_seen": "2026-10-29",
+     "last_seen": "2026-10-29"
+    },
+    {
+     "source": "We Work Remotely",
+     "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/mmc-group-benefits-verification-specialist-call-center-agent-remote-must-have-your-own-computer-must",
+     "url": "https://weworkremotely.com/remote-jobs/mmc-group-benefits-verification-specialist-call-center-agent-remote-must-have-your-own-computer-must",
+     "title": "Benefits Verification Specialist ( Call Center Agent- REMOTE)-Must have your own computer MUST LIVE IN US",
+     "company": "MMC Group",
+     "city": "Anywhere in the World 🇺🇸 United States of America",
+     "salary": "",
+     "posted": "28 Sep 2026",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "Обслужване на клиенти",
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "изисква 2+ г. опит",
+      "обявата е на английски",
+      "работа по американско време, проверете часовете"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 6.6,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-10-29",
+     "last_seen": "2026-10-29"
+    }
+   ]
+  }
+ ]
+}
