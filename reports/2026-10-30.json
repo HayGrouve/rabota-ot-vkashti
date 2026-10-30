@@ -1,0 +1,109 @@
+{
+ "date": "2026-10-30",
+ "checked": "2026-10-30T13:07+02:00",
+ "sources": {
+  "zaplata.bg": 368,
+  "Himalayas": 242,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 38,
+  "We Work Remotely": 96,
+  "Remotive": 12
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "We Work Remotely",
+     "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/wolt-english-english-speaking-support-associate-full-time-remote",
+     "url": "https://weworkremotely.com/remote-jobs/wolt-english-english-speaking-support-associate-full-time-remote",
+     "title": "English-Speaking Support Associate (Full-time - Remote)",
+     "company": "Wolt - English",
+     "city": "Anywhere in the World 🇷🇸 Serbia",
+     "salary": "",
+     "posted": "30 Oct 2026",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "изисква отличен английски",
+      "има нощни смени"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 6.6,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-10-30",
+     "last_seen": "2026-10-30"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/supportyourapp/jobs/fluent-english-application-support-specialist-eu-remote",
+     "url": "https://himalayas.app/companies/supportyourapp/jobs/fluent-english-application-support-specialist-eu-remote",
+     "title": "(fluent English) Application Support Specialist (EU, remote)",
+     "company": "SupportYourApp",
+     "city": "Bulgaria",
+     "salary": "",
+     "posted": "2026-10-29",
+     "until": "2026-12-28",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "изисква отличен английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 6.7,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-10-30",
+     "last_seen": "2026-10-30"
+    },
+    {
+     "source": "We Work Remotely",
+     "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday",
+     "url": "https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday",
+     "title": "Consumer Support Specialist (Weekend Shift, Sunday - Thursday)",
+     "company": "Keeper Security",
+     "city": "Anywhere in the World",
+     "salary": "",
+     "posted": "30 Oct 2026",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква 2+ г. опит",
+      "обявата е на английски",
+      "работа по американско време, проверете часовете",
+      "хибридна"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 8.0,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-10-30",
+     "last_seen": "2026-10-30"
+    }
+   ]
+  }
+ ]
+}

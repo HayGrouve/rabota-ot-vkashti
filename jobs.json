@@ -21,7 +21,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/welocalize/jobs/bulgarian-gen-ai-trainer": {
   "source": "Himalayas",
@@ -47,7 +47,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/welo-global/jobs/ads-quality-rater-bulgarian-bulgaria": {
   "source": "Himalayas",
@@ -73,7 +73,7 @@
   "level": "Лесна",
   "hours": "part",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/micro1/jobs/video-annotation-specialist-8887572920": {
   "source": "Himalayas",
@@ -99,33 +99,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
- },
- "Himalayas:https://himalayas.app/companies/micro1/jobs/customer-service-expert": {
-  "source": "Himalayas",
-  "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/customer-service-expert",
-  "url": "https://himalayas.app/companies/micro1/jobs/customer-service-expert",
-  "title": "Customer Service Expert",
-  "company": "micro1",
-  "city": "Worldwide",
-  "salary": "",
-  "posted": "2026-10-04",
-  "until": "2026-12-03",
-  "remote": true,
-  "kind": "Contractor",
-  "roles": [
-   "Обслужване на клиенти"
-  ],
-  "flags": [
-   "обявата е на английски"
-  ],
-  "bulgarian": false,
-  "no_experience": true,
-  "effort": -1.4,
-  "level": "Лесна",
-  "hours": "freelance",
-  "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/micro1/jobs/video-data-annotation-specialist": {
   "source": "Himalayas",
@@ -152,7 +126,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/micro1/jobs/video-data-annotator-966806508": {
   "source": "Himalayas",
@@ -179,7 +153,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/onepilot/jobs/customer-service-representative": {
   "source": "Himalayas",
@@ -205,7 +179,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Remote OK:1137512": {
   "source": "Remote OK",
@@ -232,7 +206,7 @@
   "level": "Лесна",
   "hours": "",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Remote OK:1137547": {
   "source": "Remote OK",
@@ -260,7 +234,7 @@
   "level": "Средна",
   "hours": "part",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Remotive:2091161": {
   "source": "Remotive",
@@ -287,7 +261,7 @@
   "level": "Средна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Working Nomads:https://www.workingnomads.com/job/go/1939843/": {
   "source": "Working Nomads",
@@ -314,7 +288,7 @@
   "level": "Средна",
   "hours": "",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking": {
   "source": "Himalayas",
@@ -341,34 +315,7 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
- },
- "We Work Remotely:https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist": {
-  "source": "We Work Remotely",
-  "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist",
-  "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist",
-  "title": "Customer Support Specialist",
-  "company": "Mercury",
-  "city": "Anywhere in the World",
-  "salary": "",
-  "posted": "26 Oct 2026",
-  "until": "",
-  "remote": true,
-  "kind": "Full-Time",
-  "roles": [
-   "Обслужване на клиенти"
-  ],
-  "flags": [
-   "изисква 2+ г. опит",
-   "обявата е на английски"
-  ],
-  "bulgarian": false,
-  "no_experience": false,
-  "effort": 4.4,
-  "level": "По-трудна",
-  "hours": "full",
-  "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/spotter-labs/jobs/afterhours-driver-support-specialist-1423288814": {
   "source": "Himalayas",
@@ -395,7 +342,7 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/offshore-launch/jobs/dispatcher": {
   "source": "Himalayas",
@@ -423,7 +370,7 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/offshore-launch/jobs/customer-service-and-dispatcher": {
   "source": "Himalayas",
@@ -451,7 +398,7 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/foundever/jobs/remote-customer-care-specialist-mit-deutsch-und-englisch-sofia-bulgaria-bg": {
   "source": "Himalayas",
@@ -477,7 +424,7 @@
   "level": "Средна",
   "hours": "full",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Himalayas:https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert": {
   "source": "Himalayas",
@@ -504,7 +451,7 @@
   "level": "Средна",
   "hours": "freelance",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Jobicy:157769": {
   "source": "Jobicy",
@@ -530,7 +477,7 @@
   "level": "Средна",
   "hours": "full",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "Jobicy:157764": {
   "source": "Jobicy",
@@ -556,7 +503,7 @@
   "level": "Лесна",
   "hours": "part",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
  },
  "We Work Remotely:https://weworkremotely.com/remote-jobs/mmc-group-benefits-verification-specialist-call-center-agent-remote-must-have-your-own-computer-must": {
   "source": "We Work Remotely",
@@ -585,6 +532,90 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-29"
+  "last_seen": "2026-10-30"
+ },
+ "Himalayas:https://himalayas.app/companies/supportyourapp/jobs/fluent-english-application-support-specialist-eu-remote": {
+  "source": "Himalayas",
+  "key": "Himalayas:https://himalayas.app/companies/supportyourapp/jobs/fluent-english-application-support-specialist-eu-remote",
+  "url": "https://himalayas.app/companies/supportyourapp/jobs/fluent-english-application-support-specialist-eu-remote",
+  "title": "(fluent English) Application Support Specialist (EU, remote)",
+  "company": "SupportYourApp",
+  "city": "Bulgaria",
+  "salary": "",
+  "posted": "2026-10-29",
+  "until": "2026-12-28",
+  "remote": true,
+  "kind": "Contractor",
+  "roles": [
+   "Обслужване на клиенти"
+  ],
+  "flags": [
+   "обявата е на английски",
+   "изисква отличен английски"
+  ],
+  "bulgarian": false,
+  "no_experience": false,
+  "effort": 6.7,
+  "level": "По-трудна",
+  "hours": "full",
+  "first_seen": "2026-10-30",
+  "last_seen": "2026-10-30"
+ },
+ "We Work Remotely:https://weworkremotely.com/remote-jobs/wolt-english-english-speaking-support-associate-full-time-remote": {
+  "source": "We Work Remotely",
+  "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/wolt-english-english-speaking-support-associate-full-time-remote",
+  "url": "https://weworkremotely.com/remote-jobs/wolt-english-english-speaking-support-associate-full-time-remote",
+  "title": "English-Speaking Support Associate (Full-time - Remote)",
+  "company": "Wolt - English",
+  "city": "Anywhere in the World 🇷🇸 Serbia",
+  "salary": "",
+  "posted": "30 Oct 2026",
+  "until": "",
+  "remote": true,
+  "kind": "Full-Time",
+  "roles": [
+   "Обслужване на клиенти"
+  ],
+  "flags": [
+   "обявата е на английски",
+   "изисква отличен английски",
+   "има нощни смени"
+  ],
+  "bulgarian": false,
+  "no_experience": false,
+  "effort": 6.6,
+  "level": "По-трудна",
+  "hours": "full",
+  "first_seen": "2026-10-30",
+  "last_seen": "2026-10-30"
+ },
+ "We Work Remotely:https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday": {
+  "source": "We Work Remotely",
+  "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday",
+  "url": "https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday",
+  "title": "Consumer Support Specialist (Weekend Shift, Sunday - Thursday)",
+  "company": "Keeper Security",
+  "city": "Anywhere in the World",
+  "salary": "",
+  "posted": "30 Oct 2026",
+  "until": "",
+  "remote": true,
+  "kind": "Full-Time",
+  "roles": [
+   "Обслужване на клиенти"
+  ],
+  "flags": [
+   "изисква 2+ г. опит",
+   "обявата е на английски",
+   "работа по американско време, проверете часовете",
+   "хибридна"
+  ],
+  "bulgarian": false,
+  "no_experience": false,
+  "effort": 8.0,
+  "level": "По-трудна",
+  "hours": "full",
+  "first_seen": "2026-10-30",
+  "last_seen": "2026-10-30"
  }
 }
