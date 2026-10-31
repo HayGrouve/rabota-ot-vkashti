@@ -21,7 +21,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/welocalize/jobs/bulgarian-gen-ai-trainer": {
   "source": "Himalayas",
@@ -47,7 +47,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/welo-global/jobs/ads-quality-rater-bulgarian-bulgaria": {
   "source": "Himalayas",
@@ -73,7 +73,7 @@
   "level": "Лесна",
   "hours": "part",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/micro1/jobs/video-annotation-specialist-8887572920": {
   "source": "Himalayas",
@@ -99,7 +99,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/micro1/jobs/video-data-annotation-specialist": {
   "source": "Himalayas",
@@ -126,7 +126,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/micro1/jobs/video-data-annotator-966806508": {
   "source": "Himalayas",
@@ -153,7 +153,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/onepilot/jobs/customer-service-representative": {
   "source": "Himalayas",
@@ -179,7 +179,7 @@
   "level": "Лесна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Remote OK:1137512": {
   "source": "Remote OK",
@@ -206,7 +206,7 @@
   "level": "Лесна",
   "hours": "",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Remote OK:1137547": {
   "source": "Remote OK",
@@ -234,7 +234,7 @@
   "level": "Средна",
   "hours": "part",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Remotive:2091161": {
   "source": "Remotive",
@@ -261,7 +261,7 @@
   "level": "Средна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Working Nomads:https://www.workingnomads.com/job/go/1939843/": {
   "source": "Working Nomads",
@@ -288,7 +288,7 @@
   "level": "Средна",
   "hours": "",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking": {
   "source": "Himalayas",
@@ -315,34 +315,7 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
- },
- "Himalayas:https://himalayas.app/companies/spotter-labs/jobs/afterhours-driver-support-specialist-1423288814": {
-  "source": "Himalayas",
-  "key": "Himalayas:https://himalayas.app/companies/spotter-labs/jobs/afterhours-driver-support-specialist-1423288814",
-  "url": "https://himalayas.app/companies/spotter-labs/jobs/afterhours-driver-support-specialist-1423288814",
-  "title": "Afterhours Driver Support Specialist",
-  "company": "Spotter Labs",
-  "city": "Worldwide",
-  "salary": "",
-  "posted": "2026-10-02",
-  "until": "2026-10-30",
-  "remote": true,
-  "kind": "Full Time",
-  "roles": [
-   "Обслужване на клиенти"
-  ],
-  "flags": [
-   "обявата е на английски",
-   "има нощни смени"
-  ],
-  "bulgarian": false,
-  "no_experience": false,
-  "effort": 4.5,
-  "level": "По-трудна",
-  "hours": "full",
-  "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/offshore-launch/jobs/dispatcher": {
   "source": "Himalayas",
@@ -370,7 +343,7 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/offshore-launch/jobs/customer-service-and-dispatcher": {
   "source": "Himalayas",
@@ -398,7 +371,7 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-28",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/foundever/jobs/remote-customer-care-specialist-mit-deutsch-und-englisch-sofia-bulgaria-bg": {
   "source": "Himalayas",
@@ -424,7 +397,7 @@
   "level": "Средна",
   "hours": "full",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Himalayas:https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert": {
   "source": "Himalayas",
@@ -451,7 +424,7 @@
   "level": "Средна",
   "hours": "freelance",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Jobicy:157769": {
   "source": "Jobicy",
@@ -477,7 +450,7 @@
   "level": "Средна",
   "hours": "full",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "Jobicy:157764": {
   "source": "Jobicy",
@@ -503,63 +476,7 @@
   "level": "Лесна",
   "hours": "part",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-10-30"
- },
- "We Work Remotely:https://weworkremotely.com/remote-jobs/mmc-group-benefits-verification-specialist-call-center-agent-remote-must-have-your-own-computer-must": {
-  "source": "We Work Remotely",
-  "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/mmc-group-benefits-verification-specialist-call-center-agent-remote-must-have-your-own-computer-must",
-  "url": "https://weworkremotely.com/remote-jobs/mmc-group-benefits-verification-specialist-call-center-agent-remote-must-have-your-own-computer-must",
-  "title": "Benefits Verification Specialist ( Call Center Agent- REMOTE)-Must have your own computer MUST LIVE IN US",
-  "company": "MMC Group",
-  "city": "Anywhere in the World 🇺🇸 United States of America",
-  "salary": "",
-  "posted": "28 Sep 2026",
-  "until": "",
-  "remote": true,
-  "kind": "Full-Time",
-  "roles": [
-   "Обслужване на клиенти",
-   "Данни / проверка / администрация"
-  ],
-  "flags": [
-   "изисква 2+ г. опит",
-   "обявата е на английски",
-   "работа по американско време, проверете часовете"
-  ],
-  "bulgarian": false,
-  "no_experience": false,
-  "effort": 6.6,
-  "level": "По-трудна",
-  "hours": "full",
-  "first_seen": "2026-10-29",
-  "last_seen": "2026-10-30"
- },
- "Himalayas:https://himalayas.app/companies/supportyourapp/jobs/fluent-english-application-support-specialist-eu-remote": {
-  "source": "Himalayas",
-  "key": "Himalayas:https://himalayas.app/companies/supportyourapp/jobs/fluent-english-application-support-specialist-eu-remote",
-  "url": "https://himalayas.app/companies/supportyourapp/jobs/fluent-english-application-support-specialist-eu-remote",
-  "title": "(fluent English) Application Support Specialist (EU, remote)",
-  "company": "SupportYourApp",
-  "city": "Bulgaria",
-  "salary": "",
-  "posted": "2026-10-29",
-  "until": "2026-12-28",
-  "remote": true,
-  "kind": "Contractor",
-  "roles": [
-   "Обслужване на клиенти"
-  ],
-  "flags": [
-   "обявата е на английски",
-   "изисква отличен английски"
-  ],
-  "bulgarian": false,
-  "no_experience": false,
-  "effort": 6.7,
-  "level": "По-трудна",
-  "hours": "full",
-  "first_seen": "2026-10-30",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "We Work Remotely:https://weworkremotely.com/remote-jobs/wolt-english-english-speaking-support-associate-full-time-remote": {
   "source": "We Work Remotely",
@@ -587,7 +504,7 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-30",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
  },
  "We Work Remotely:https://weworkremotely.com/remote-jobs/keeper-security-consumer-support-specialist-weekend-shift-sunday-thursday": {
   "source": "We Work Remotely",
@@ -616,6 +533,136 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-30",
-  "last_seen": "2026-10-30"
+  "last_seen": "2026-10-31"
+ },
+ "Jobicy:142152": {
+  "source": "Jobicy",
+  "key": "Jobicy:142152",
+  "url": "https://jobicy.com/jobs/142152-transcription-subtitling-specialist-freelance",
+  "title": "Transcription / Subtitling Specialist (Freelance)",
+  "company": "Elevenlabs",
+  "city": "Brazil,  Bulgaria,  Denmark,  France,  Germany,  Japan,  Mexico,  Netherlands,  Poland,  Portugal,  South Korea,  Spain,  Sweden,  UK,  USA",
+  "salary": "",
+  "posted": "2026-10-31",
+  "until": "",
+  "remote": true,
+  "kind": "Part-Time",
+  "roles": [
+   "AI / транскрипция"
+  ],
+  "flags": [
+   "обявата е на английски"
+  ],
+  "bulgarian": false,
+  "no_experience": false,
+  "effort": -0.5,
+  "level": "Лесна",
+  "hours": "part",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
+ },
+ "Jobicy:157953": {
+  "source": "Jobicy",
+  "key": "Jobicy:157953",
+  "url": "https://jobicy.com/jobs/157953-ai-trainers-network-cebuano",
+  "title": "AI Trainers Network - Cebuano",
+  "company": "Welo Global",
+  "city": "Europe,  Philippines",
+  "salary": "",
+  "posted": "2026-10-30",
+  "until": "",
+  "remote": true,
+  "kind": "Contract",
+  "roles": [
+   "AI / транскрипция"
+  ],
+  "flags": [
+   "обявата е на английски"
+  ],
+  "bulgarian": false,
+  "no_experience": false,
+  "effort": -0.8,
+  "level": "Лесна",
+  "hours": "freelance",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
+ },
+ "Jobicy:157937": {
+  "source": "Jobicy",
+  "key": "Jobicy:157937",
+  "url": "https://jobicy.com/jobs/157937-ai-trainers-network-bulgarian",
+  "title": "AI Trainers Network - Bulgarian",
+  "company": "Welo Global",
+  "city": "Bulgaria,  Czechia,  Türkiye",
+  "salary": "",
+  "posted": "2026-10-30",
+  "until": "",
+  "remote": true,
+  "kind": "Contract",
+  "roles": [
+   "AI / транскрипция"
+  ],
+  "flags": [
+   "обявата е на английски"
+  ],
+  "bulgarian": true,
+  "no_experience": false,
+  "effort": -0.8,
+  "level": "Лесна",
+  "hours": "freelance",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
+ },
+ "Jobicy:157933": {
+  "source": "Jobicy",
+  "key": "Jobicy:157933",
+  "url": "https://jobicy.com/jobs/157933-ai-trainers-network-bosnian",
+  "title": "AI Trainers Network - Bosnian",
+  "company": "Welo Global",
+  "city": "Europe",
+  "salary": "",
+  "posted": "2026-10-30",
+  "until": "",
+  "remote": true,
+  "kind": "Full-Time",
+  "roles": [
+   "AI / транскрипция"
+  ],
+  "flags": [
+   "обявата е на английски"
+  ],
+  "bulgarian": false,
+  "no_experience": false,
+  "effort": 2.2,
+  "level": "Средна",
+  "hours": "full",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
+ },
+ "Jobicy:157929": {
+  "source": "Jobicy",
+  "key": "Jobicy:157929",
+  "url": "https://jobicy.com/jobs/157929-ai-trainers-network-belarusian",
+  "title": "AI Trainers Network - Belarusian",
+  "company": "Welo Global",
+  "city": "Europe",
+  "salary": "",
+  "posted": "2026-10-30",
+  "until": "",
+  "remote": true,
+  "kind": "Contract",
+  "roles": [
+   "AI / транскрипция"
+  ],
+  "flags": [
+   "обявата е на английски"
+  ],
+  "bulgarian": false,
+  "no_experience": false,
+  "effort": -0.8,
+  "level": "Лесна",
+  "hours": "freelance",
+  "first_seen": "2026-10-31",
+  "last_seen": "2026-10-31"
  }
 }

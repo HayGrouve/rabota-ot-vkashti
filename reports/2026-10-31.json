@@ -1,0 +1,156 @@
+{
+ "date": "2026-10-31",
+ "checked": "2026-10-31T12:41+02:00",
+ "sources": {
+  "zaplata.bg": 380,
+  "Himalayas": 242,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 37,
+  "We Work Remotely": 99,
+  "Remotive": 13
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": [
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:157937",
+     "url": "https://jobicy.com/jobs/157937-ai-trainers-network-bulgarian",
+     "title": "AI Trainers Network - Bulgarian",
+     "company": "Welo Global",
+     "city": "Bulgaria,  Czechia,  Türkiye",
+     "salary": "",
+     "posted": "2026-10-30",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": true,
+     "no_experience": false,
+     "effort": -0.8,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-10-31",
+     "last_seen": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:157929",
+     "url": "https://jobicy.com/jobs/157929-ai-trainers-network-belarusian",
+     "title": "AI Trainers Network - Belarusian",
+     "company": "Welo Global",
+     "city": "Europe",
+     "salary": "",
+     "posted": "2026-10-30",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -0.8,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-10-31",
+     "last_seen": "2026-10-31"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:157953",
+     "url": "https://jobicy.com/jobs/157953-ai-trainers-network-cebuano",
+     "title": "AI Trainers Network - Cebuano",
+     "company": "Welo Global",
+     "city": "Europe,  Philippines",
+     "salary": "",
+     "posted": "2026-10-30",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -0.8,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-10-31",
+     "last_seen": "2026-10-31"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:142152",
+     "url": "https://jobicy.com/jobs/142152-transcription-subtitling-specialist-freelance",
+     "title": "Transcription / Subtitling Specialist (Freelance)",
+     "company": "Elevenlabs",
+     "city": "Brazil,  Bulgaria,  Denmark,  France,  Germany,  Japan,  Mexico,  Netherlands,  Poland,  Portugal,  South Korea,  Spain,  Sweden,  UK,  USA",
+     "salary": "",
+     "posted": "2026-10-31",
+     "until": "",
+     "remote": true,
+     "kind": "Part-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -0.5,
+     "level": "Лесна",
+     "hours": "part",
+     "first_seen": "2026-10-31",
+     "last_seen": "2026-10-31"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:157933",
+     "url": "https://jobicy.com/jobs/157933-ai-trainers-network-bosnian",
+     "title": "AI Trainers Network - Bosnian",
+     "company": "Welo Global",
+     "city": "Europe",
+     "salary": "",
+     "posted": "2026-10-30",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-10-31",
+     "last_seen": "2026-10-31"
+    }
+   ]
+  }
+ ]
+}
