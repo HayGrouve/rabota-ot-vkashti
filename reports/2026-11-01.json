@@ -1,0 +1,78 @@
+{
+ "date": "2026-11-01",
+ "checked": "2026-11-01T13:35+02:00",
+ "sources": {
+  "zaplata.bg": 379,
+  "Himalayas": 221,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 35,
+  "We Work Remotely": 100,
+  "Remotive": 12
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/globl-contact/jobs/teamlead-m-w-d-customer-care",
+     "url": "https://himalayas.app/companies/globl-contact/jobs/teamlead-m-w-d-customer-care",
+     "title": "Teamlead (m/w/d) - Customer Care",
+     "company": "Globl.Contact",
+     "city": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+     "salary": "",
+     "posted": "2026-11-01",
+     "until": "2026-12-30",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-01",
+     "last_seen": "2026-11-01"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045",
+     "url": "https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045",
+     "title": "Music & Sound Annotation Expert",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "30–45 USD",
+     "posted": "2026-11-01",
+     "until": "2026-12-31",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "изисква 3+ г. опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.4,
+     "level": "Средна",
+     "hours": "freelance",
+     "first_seen": "2026-11-01",
+     "last_seen": "2026-11-01"
+    }
+   ]
+  }
+ ]
+}
