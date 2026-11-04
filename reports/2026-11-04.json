@@ -1,0 +1,494 @@
+{
+ "date": "2026-11-04",
+ "checked": "2026-11-04T14:41+02:00",
+ "sources": {
+  "zaplata.bg": 373,
+  "Himalayas": 295,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 33,
+  "We Work Remotely": 100,
+  "Remotive": 11
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/onepilot/jobs/customer-service-representative-5315360173",
+     "url": "https://himalayas.app/companies/onepilot/jobs/customer-service-representative-5315360173",
+     "title": "Customer service representative",
+     "company": "Onepilot",
+     "city": "Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden",
+     "salary": "",
+     "posted": "2026-11-04",
+     "until": "2026-12-02",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -1.1,
+     "level": "Лесна",
+     "hours": "part",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158739",
+     "url": "https://jobicy.com/jobs/158739-ai-trainers-network-kyrgyz",
+     "title": "AI Trainers Network - Kyrgyz",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -0.8,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158784",
+     "url": "https://jobicy.com/jobs/158784-ai-trainers-network-lithuanian",
+     "title": "AI Trainers Network - Lithuanian",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -0.8,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158787",
+     "url": "https://jobicy.com/jobs/158787-ai-trainers-network-malay",
+     "title": "AI Trainers Network - Malay",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -0.8,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158798",
+     "url": "https://jobicy.com/jobs/158798-ai-trainers-network-somali",
+     "title": "AI Trainers Network - Somali",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -0.8,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158802",
+     "url": "https://jobicy.com/jobs/158802-ai-trainers-network-tagalog",
+     "title": "AI Trainers Network - Tagalog",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -0.8,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/boosta/jobs/support-agent-freelance-morning-shifts-brainer",
+     "url": "https://himalayas.app/companies/boosta/jobs/support-agent-freelance-morning-shifts-brainer",
+     "title": "Support Agent (Freelance, Morning Shifts) | Brainer",
+     "company": "Boosta",
+     "city": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
+     "salary": "",
+     "posted": "2026-11-01",
+     "until": "2026-12-24",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 0.0,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158734",
+     "url": "https://jobicy.com/jobs/158734-ai-trainers-network-irish",
+     "title": "AI Trainers Network - Irish",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158741",
+     "url": "https://jobicy.com/jobs/158741-ai-trainers-network-lao",
+     "title": "AI Trainers Network - Lao",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158743",
+     "url": "https://jobicy.com/jobs/158743-ai-trainers-network-latvian",
+     "title": "AI Trainers Network - Latvian",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158788",
+     "url": "https://jobicy.com/jobs/158788-ai-trainers-network-maori",
+     "title": "AI Trainers Network - Maori",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158789",
+     "url": "https://jobicy.com/jobs/158789-ai-trainers-network-mongolian",
+     "title": "AI Trainers Network - Mongolian",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158791",
+     "url": "https://jobicy.com/jobs/158791-ai-trainers-network-persian",
+     "title": "AI Trainers Network - Persian",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158800",
+     "url": "https://jobicy.com/jobs/158800-ai-trainers-network-swahili",
+     "title": "AI Trainers Network - Swahili",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158805",
+     "url": "https://jobicy.com/jobs/158805-ai-trainers-network-twi",
+     "title": "AI Trainers Network - Twi",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158807",
+     "url": "https://jobicy.com/jobs/158807-ai-trainers-network-uzbek",
+     "title": "AI Trainers Network - Uzbek",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158809",
+     "url": "https://jobicy.com/jobs/158809-ai-trainers-network-welsh",
+     "title": "AI Trainers Network - Welsh",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.2,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    },
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:158799",
+     "url": "https://jobicy.com/jobs/158799-ai-trainers-network-southeast-asia-talent-hub-ex-singapore-residents",
+     "title": "AI Trainers Network - Southeast Asia Talent Hub (Ex-Singapore Residents)",
+     "company": "Welo Global",
+     "city": "Anywhere",
+     "salary": "",
+     "posted": "2026-11-03",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "изисква отличен английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 4.2,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-11-04",
+     "last_seen": "2026-11-04"
+    }
+   ]
+  }
+ ]
+}
