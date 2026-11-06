@@ -1,0 +1,80 @@
+{
+ "date": "2026-11-06",
+ "checked": "2026-11-06T14:37+02:00",
+ "sources": {
+  "zaplata.bg": 378,
+  "Himalayas": 289,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 33,
+  "We Work Remotely": 100,
+  "Remotive": 12
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "We Work Remotely",
+     "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
+     "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
+     "title": "Remote Data Entry Clerk",
+     "company": "NoGigiddy",
+     "city": "Anywhere in the World",
+     "salary": "",
+     "posted": "11 Nov 2025",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "изисква опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.4,
+     "level": "Средна",
+     "hours": "part",
+     "first_seen": "2026-11-06",
+     "last_seen": "2026-11-06"
+    },
+    {
+     "source": "Remote OK",
+     "key": "Remote OK:1137686",
+     "url": "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686",
+     "title": "AI Content Reviewer Video Annotation",
+     "company": "iMerit",
+     "city": "",
+     "salary": "80000–90000 USD/год.",
+     "posted": "2026-11-04",
+     "until": "",
+     "remote": true,
+     "kind": "",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "изисква опит",
+      "обявата е на английски",
+      "не е посочено от кои държави"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.9,
+     "level": "Средна",
+     "hours": "",
+     "first_seen": "2026-11-06",
+     "last_seen": "2026-11-06"
+    }
+   ]
+  }
+ ]
+}
