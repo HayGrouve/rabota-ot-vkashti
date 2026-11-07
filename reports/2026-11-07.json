@@ -1,0 +1,108 @@
+{
+ "date": "2026-11-07",
+ "checked": "2026-11-07T13:26+02:00",
+ "sources": {
+  "zaplata.bg": 383,
+  "Himalayas": 294,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 32,
+  "We Work Remotely": 100,
+  "Remotive": 12
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/generalist-for-data-annotation-4376089855",
+     "url": "https://himalayas.app/companies/micro1/jobs/generalist-for-data-annotation-4376089855",
+     "title": "Generalist for Data Annotation",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "21–35 USD",
+     "posted": "2026-11-07",
+     "until": "2027-01-06",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция",
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": -1.6,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-11-07",
+     "last_seen": "2026-11-07"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/sutherland/jobs/airline-customer-support-specialist-with-english-remote-within-bulgaria",
+     "url": "https://himalayas.app/companies/sutherland/jobs/airline-customer-support-specialist-with-english-remote-within-bulgaria",
+     "title": "Airline Customer Support Specialist with English | Remote within Bulgaria",
+     "company": "Sutherland",
+     "city": "Bulgaria",
+     "salary": "1200–1200 EUR/мес.",
+     "posted": "2026-11-07",
+     "until": "2027-01-06",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "изисква отличен английски",
+      "има нощни смени"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 6.6,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-11-07",
+     "last_seen": "2026-11-07"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/gymdesk/jobs/customer-support-representative",
+     "url": "https://himalayas.app/companies/gymdesk/jobs/customer-support-representative",
+     "title": "Customer Support Representative",
+     "company": "Gymdesk",
+     "city": "Afghanistan, Albania, Algeria, American Samoa, Andorra, Angola, Antarctica, Armenia, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bhutan, Bosnia and Herzegovina, Botswana, Bouvet Island, British Indian Ocean Territory, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Central African Republic, Chad, China, Christmas Island, Cocos (Keeling) Islands, Comoros, Congo, Congo, The Democratic Republic of the, Cook Islands, Croatia, Curaçao, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Fiji, Finland, France, French Guiana, French Polynesia, French Southern Territories, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Guadeloupe, Guam, Guernsey, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Holy See (Vatican City State), Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kiribati, Kosovo, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Martinique, Mauritania, Mauritius, Mayotte, Micronesia, Federated States of, Moldova, Monaco, Mongolia, Montenegro, Morocco, Mozambique, Myanmar, Namibia, Nauru, Nepal, Netherlands, New Caledonia, New Zealand, Niger, Nigeria, Niue, Norfolk Island, North Macedonia, Northern Mariana Islands, Norway, Oman, Pakistan, Palau, Palestine, State of, Papua New Guinea, Philippines, Pitcairn, Poland, Portugal, Qatar, Romania, Russian Federation, Rwanda, Réunion, Saint Barthélemy, Saint Helena, Ascension and Tristan da Cunha, Saint Martin (French part), Saint Pierre and Miquelon, Samoa, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Sint Maarten (Dutch part), Slovakia, Slovenia, Solomon Islands, Somalia, South Africa, South Korea, South Sudan, Spain, Sri Lanka, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tokelau, Tonga, Tunisia, Turkey, Turkmenistan, Tuvalu, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States Minor Outlying Islands, Uzbekistan, Vanuatu, Vietnam, Wallis and Futuna, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
+     "salary": "",
+     "posted": "2026-11-07",
+     "until": "2027-01-06",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква 1+ г. опит",
+      "обявата е на английски",
+      "изисква отличен английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 8.2,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-11-07",
+     "last_seen": "2026-11-07"
+    }
+   ]
+  }
+ ]
+}
