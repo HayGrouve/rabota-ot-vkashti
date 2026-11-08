@@ -1,0 +1,53 @@
+{
+ "date": "2026-11-08",
+ "checked": "2026-11-08T13:37+02:00",
+ "sources": {
+  "zaplata.bg": 381,
+  "Himalayas": 297,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 17,
+  "We Work Remotely": 100,
+  "Remotive": 13
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/everhelp/jobs/customer-support-representative-english-desk",
+     "url": "https://himalayas.app/companies/everhelp/jobs/customer-support-representative-english-desk",
+     "title": "Customer Support Representative (English desk)",
+     "company": "Everhelp",
+     "city": "Worldwide",
+     "salary": "",
+     "posted": "2026-11-08",
+     "until": "2026-12-06",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква 1+ г. опит",
+      "обявата е на английски",
+      "изисква отличен английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 6.4,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-11-08",
+     "last_seen": "2026-11-08"
+    }
+   ]
+  }
+ ]
+}
