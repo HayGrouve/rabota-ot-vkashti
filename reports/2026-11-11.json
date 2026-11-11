@@ -1,0 +1,54 @@
+{
+ "date": "2026-11-11",
+ "checked": "2026-11-11T14:18+02:00",
+ "sources": {
+  "zaplata.bg": 346,
+  "Himalayas": 301,
+  "Jobicy": 100,
+  "Remote OK": 99,
+  "Working Nomads": 37,
+  "We Work Remotely": 100,
+  "Remotive": 13
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Remote OK",
+     "key": "Remote OK:1137711",
+     "url": "https://remoteOK.com/remote-jobs/remote-hil-support-specialist-extend-your-team-1137711",
+     "title": "HIL Support Specialist",
+     "company": "Extend Your Team",
+     "city": "",
+     "salary": "",
+     "posted": "2026-11-09",
+     "until": "",
+     "remote": true,
+     "kind": "",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква 2+ г. опит",
+      "обявата е на английски",
+      "изисква отличен английски",
+      "не е посочено от кои държави"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 9.0,
+     "level": "По-трудна",
+     "hours": "",
+     "first_seen": "2026-11-11",
+     "last_seen": "2026-11-11"
+    }
+   ]
+  }
+ ]
+}
