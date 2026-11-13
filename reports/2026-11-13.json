@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-13",
+ "checked": "2026-11-13T14:44+02:00",
+ "sources": {
+  "zaplata.bg": 338,
+  "Jobicy": 100,
+  "Remote OK": 98,
+  "Working Nomads": 35,
+  "We Work Remotely": 100,
+  "Remotive": 14
+ },
+ "errors": [
+  "Himalayas: HTTPError: HTTP Error 429: Too Many Requests"
+ ],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Jobicy",
+     "key": "Jobicy:153069",
+     "url": "https://jobicy.com/jobs/153069-product-support-specialist-emea",
+     "title": "Product Support Specialist - EMEA",
+     "company": "Ashby",
+     "city": "Europe",
+     "salary": "59500–76500 GBP/год.",
+     "posted": "2026-11-13",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.6,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-13",
+     "last_seen": "2026-11-13"
+    }
+   ]
+  }
+ ]
+}

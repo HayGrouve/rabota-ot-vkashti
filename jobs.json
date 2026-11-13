@@ -180,34 +180,7 @@
   "level": "Средна",
   "hours": "freelance",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-12"
- },
- "Working Nomads:https://www.workingnomads.com/job/go/1939843/": {
-  "source": "Working Nomads",
-  "key": "Working Nomads:https://www.workingnomads.com/job/go/1939843/",
-  "url": "https://www.workingnomads.com/job/go/1939843/",
-  "title": "AI Trainer",
-  "company": "iMerit Technology",
-  "city": "United states, Norway, United Kingdom, Sweden, New Zealand, Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Czech Republic, Denmark, Dominican Republic, Estonia, Finland, Germany, Greece, Hungary, India, Indonesia, Ireland,",
-  "salary": "",
-  "posted": "2026-10-14",
-  "until": "",
-  "remote": true,
-  "kind": "",
-  "roles": [
-   "AI / транскрипция"
-  ],
-  "flags": [
-   "изисква опит",
-   "обявата е на английски"
-  ],
-  "bulgarian": false,
-  "no_experience": false,
-  "effort": 3.3,
-  "level": "Средна",
-  "hours": "",
-  "first_seen": "2026-10-27",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Himalayas:https://himalayas.app/companies/spotter-labs/jobs/junior-dispatcher-remote-usa-trucking": {
   "source": "Himalayas",
@@ -263,7 +236,7 @@
   "level": "По-трудна",
   "hours": "full",
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Himalayas:https://himalayas.app/companies/micro1/jobs/music-sound-annotation-expert-2823077045": {
   "source": "Himalayas",
@@ -613,7 +586,7 @@
   "level": "Средна",
   "hours": "",
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
  },
  "Himalayas:https://himalayas.app/companies/sutherland/jobs/airline-customer-support-specialist-with-english-remote-within-bulgaria": {
   "source": "Himalayas",
@@ -724,6 +697,32 @@
   "level": "По-трудна",
   "hours": "",
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-12"
+  "last_seen": "2026-11-13"
+ },
+ "Jobicy:153069": {
+  "source": "Jobicy",
+  "key": "Jobicy:153069",
+  "url": "https://jobicy.com/jobs/153069-product-support-specialist-emea",
+  "title": "Product Support Specialist - EMEA",
+  "company": "Ashby",
+  "city": "Europe",
+  "salary": "59500–76500 GBP/год.",
+  "posted": "2026-11-13",
+  "until": "",
+  "remote": true,
+  "kind": "Full-Time",
+  "roles": [
+   "Обслужване на клиенти"
+  ],
+  "flags": [
+   "обявата е на английски"
+  ],
+  "bulgarian": false,
+  "no_experience": false,
+  "effort": 2.6,
+  "level": "Средна",
+  "hours": "full",
+  "first_seen": "2026-11-13",
+  "last_seen": "2026-11-13"
  }
 }
