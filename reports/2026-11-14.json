@@ -1,0 +1,25 @@
+{
+ "date": "2026-11-14",
+ "checked": "2026-11-14T13:52+02:00",
+ "sources": {
+  "zaplata.bg": 344,
+  "Jobicy": 100,
+  "Remote OK": 97,
+  "Working Nomads": 36,
+  "We Work Remotely": 100,
+  "Remotive": 16
+ },
+ "errors": [
+  "Himalayas: HTTPError: HTTP Error 429: Too Many Requests"
+ ],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": []
+  }
+ ]
+}
