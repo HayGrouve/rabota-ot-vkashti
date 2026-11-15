@@ -1,0 +1,24 @@
+{
+ "date": "2026-11-15",
+ "checked": "2026-11-15T14:23+02:00",
+ "sources": {
+  "zaplata.bg": 344,
+  "Himalayas": 297,
+  "Jobicy": 100,
+  "Remote OK": 97,
+  "Working Nomads": 34,
+  "We Work Remotely": 100,
+  "Remotive": 16
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": []
+  }
+ ]
+}
