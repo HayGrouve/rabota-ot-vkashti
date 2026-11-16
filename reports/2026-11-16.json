@@ -1,0 +1,131 @@
+{
+ "date": "2026-11-16",
+ "checked": "2026-11-16T15:15+02:00",
+ "sources": {
+  "zaplata.bg": 345,
+  "Himalayas": 298,
+  "Jobicy": 100,
+  "Remote OK": 97,
+  "Working Nomads": 34,
+  "We Work Remotely": 100,
+  "Remotive": 16
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/tsmg/jobs/quality-control-specialist-for-ai-ml-with-bulgarian-language",
+     "url": "https://himalayas.app/companies/tsmg/jobs/quality-control-specialist-for-ai-ml-with-bulgarian-language",
+     "title": "Quality Control Specialist for AI/ML with Bulgarian Language",
+     "company": "TSMG",
+     "city": "Bulgaria",
+     "salary": "",
+     "posted": "2026-11-16",
+     "until": "2027-01-15",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [],
+     "flags": [
+      "изисква опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": true,
+     "no_experience": false,
+     "effort": 1.8,
+     "level": "Средна",
+     "hours": "part",
+     "first_seen": "2026-11-16",
+     "last_seen": "2026-11-16"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/tsmg/jobs/audio-transcription-specialist-bulgarian-language",
+     "url": "https://himalayas.app/companies/tsmg/jobs/audio-transcription-specialist-bulgarian-language",
+     "title": "Audio Transcription Specialist (Bulgarian Language)",
+     "company": "TSMG",
+     "city": "Bulgaria",
+     "salary": "",
+     "posted": "2026-11-15",
+     "until": "2027-01-14",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "изисква опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": true,
+     "no_experience": false,
+     "effort": 1.9,
+     "level": "Средна",
+     "hours": "freelance",
+     "first_seen": "2026-11-16",
+     "last_seen": "2026-11-16"
+    }
+   ]
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/clera/jobs/expert-talent-pool-annotation-associate",
+     "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-annotation-associate",
+     "title": "Expert Talent Pool, Annotation Associate",
+     "company": "Clera",
+     "city": "Worldwide",
+     "salary": "15–35 USD",
+     "posted": "2026-11-16",
+     "until": "2027-01-15",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 2.8,
+     "level": "Средна",
+     "hours": "full",
+     "first_seen": "2026-11-16",
+     "last_seen": "2026-11-16"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/clera/jobs/expert-annotation-specialist",
+     "url": "https://himalayas.app/companies/clera/jobs/expert-annotation-specialist",
+     "title": "Expert Annotation Specialist",
+     "company": "Clera",
+     "city": "Worldwide",
+     "salary": "40–75 USD",
+     "posted": "2026-11-16",
+     "until": "2027-01-15",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "изисква 5+ г. опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 7.8,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-11-16",
+     "last_seen": "2026-11-16"
+    }
+   ]
+  }
+ ]
+}
