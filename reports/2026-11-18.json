@@ -1,0 +1,131 @@
+{
+ "date": "2026-11-18",
+ "checked": "2026-11-18T15:35+02:00",
+ "sources": {
+  "zaplata.bg": 355,
+  "Himalayas": 293,
+  "Jobicy": 100,
+  "Remote OK": 97,
+  "Working Nomads": 35,
+  "We Work Remotely": 97,
+  "Remotive": 16
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/customer-experience-cx-specialist",
+     "url": "https://himalayas.app/companies/micro1/jobs/customer-experience-cx-specialist",
+     "title": "Customer Experience (CX) Specialist",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "20–44 USD",
+     "posted": "2026-11-18",
+     "until": "2027-01-17",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -0.4,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-11-18",
+     "last_seen": "2026-11-18"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/video-data-entry-specialist-latam-1384375471",
+     "url": "https://himalayas.app/companies/micro1/jobs/video-data-entry-specialist-latam-1384375471",
+     "title": "Video Data Entry Specialist (LATAM)",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "6–6 USD",
+     "posted": "2026-11-18",
+     "until": "2027-01-17",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": 0.0,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-11-18",
+     "last_seen": "2026-11-18"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/clera/jobs/expert-talent-pool-annotation-associate-5074128877",
+     "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-annotation-associate-5074128877",
+     "title": "Expert Talent Pool, Annotation Associate",
+     "company": "Clera",
+     "city": "Worldwide",
+     "salary": "15–35 USD",
+     "posted": "2026-11-18",
+     "until": "2027-01-17",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "изисква 5+ г. опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 7.8,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-11-18",
+     "last_seen": "2026-11-18"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/clera/jobs/expert-talent-pool-annotation-expert-5-years",
+     "url": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-annotation-expert-5-years",
+     "title": "Expert Talent Pool, Annotation (Expert, 5+ Years)",
+     "company": "Clera",
+     "city": "Worldwide",
+     "salary": "40–75 USD",
+     "posted": "2026-11-18",
+     "until": "2027-01-17",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "изисква 5+ г. опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 8.0,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-11-18",
+     "last_seen": "2026-11-18"
+    }
+   ]
+  }
+ ]
+}
