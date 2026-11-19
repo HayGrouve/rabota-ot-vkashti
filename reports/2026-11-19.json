@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-19",
+ "checked": "2026-11-19T16:01+02:00",
+ "sources": {
+  "zaplata.bg": 353,
+  "Himalayas": 292,
+  "Jobicy": 100,
+  "Remote OK": 97,
+  "Working Nomads": 37,
+  "We Work Remotely": 94,
+  "Remotive": 16
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "We Work Remotely",
+     "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/driversnote-customer-support-specialist-30-hrs",
+     "url": "https://weworkremotely.com/remote-jobs/driversnote-customer-support-specialist-30-hrs",
+     "title": "Customer Support Specialist, 30 hrs",
+     "company": "Driversnote",
+     "city": "Anywhere in the World 🇨🇦 Canada",
+     "salary": "",
+     "posted": "19 Nov 2026",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "изисква отличен английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 4.9,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-11-19",
+     "last_seen": "2026-11-19"
+    }
+   ]
+  }
+ ]
+}
