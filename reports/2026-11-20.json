@@ -1,0 +1,105 @@
+{
+ "date": "2026-11-20",
+ "checked": "2026-11-20T15:44+02:00",
+ "sources": {
+  "zaplata.bg": 352,
+  "Himalayas": 296,
+  "Jobicy": 100,
+  "Remote OK": 98,
+  "Working Nomads": 36,
+  "We Work Remotely": 97,
+  "Remotive": 15
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/retail-customer-support-specialist",
+     "url": "https://himalayas.app/companies/micro1/jobs/retail-customer-support-specialist",
+     "title": "Retail Customer Support Specialist",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "18–28 USD",
+     "posted": "2026-11-20",
+     "until": "2027-01-19",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": -2.3,
+     "level": "Лесна",
+     "hours": "part",
+     "first_seen": "2026-11-20",
+     "last_seen": "2026-11-20"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/airline-customer-service-specialist",
+     "url": "https://himalayas.app/companies/micro1/jobs/airline-customer-service-specialist",
+     "title": "Airline Customer Service Specialist",
+     "company": "micro1",
+     "city": "Worldwide",
+     "salary": "18–28 USD",
+     "posted": "2026-11-20",
+     "until": "2027-01-19",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": true,
+     "effort": -0.4,
+     "level": "Лесна",
+     "hours": "freelance",
+     "first_seen": "2026-11-20",
+     "last_seen": "2026-11-20"
+    },
+    {
+     "source": "We Work Remotely",
+     "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist-risk",
+     "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-specialist-risk",
+     "title": "Customer Support Specialist - Risk",
+     "company": "Mercury",
+     "city": "Anywhere in the World",
+     "salary": "",
+     "posted": "20 Nov 2026",
+     "until": "",
+     "remote": true,
+     "kind": "Full-Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "изисква 2+ г. опит",
+      "обявата е на английски",
+      "изисква отличен английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 7.8,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-11-20",
+     "last_seen": "2026-11-20"
+    }
+   ]
+  }
+ ]
+}
