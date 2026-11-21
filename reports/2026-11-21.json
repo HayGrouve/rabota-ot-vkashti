@@ -1,0 +1,52 @@
+{
+ "date": "2026-11-21",
+ "checked": "2026-11-21T15:09+02:00",
+ "sources": {
+  "zaplata.bg": 359,
+  "Himalayas": 288,
+  "Jobicy": 100,
+  "Remote OK": 100,
+  "Working Nomads": 35,
+  "We Work Remotely": 98,
+  "Remotive": 16
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": [
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/rws-group/jobs/ai-data-specialist-bulgarian",
+     "url": "https://himalayas.app/companies/rws-group/jobs/ai-data-specialist-bulgarian",
+     "title": "AI Data Specialist - Bulgarian",
+     "company": "RWS Group",
+     "city": "Bulgaria",
+     "salary": "7–7 USD",
+     "posted": "2026-11-21",
+     "until": "2027-01-20",
+     "remote": true,
+     "kind": "Contractor",
+     "roles": [
+      "Данни / проверка / администрация"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "изисква отличен английски"
+     ],
+     "bulgarian": true,
+     "no_experience": false,
+     "effort": 1.3,
+     "level": "Лесна",
+     "hours": "part",
+     "first_seen": "2026-11-21",
+     "last_seen": "2026-11-21"
+    }
+   ]
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": []
+  }
+ ]
+}
