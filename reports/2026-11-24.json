@@ -1,0 +1,78 @@
+{
+ "date": "2026-11-24",
+ "checked": "2026-11-24T08:31+02:00",
+ "sources": {
+  "zaplata.bg": 358,
+  "Himalayas": 297,
+  "Jobicy": 100,
+  "Remote OK": 100,
+  "Working Nomads": 37,
+  "We Work Remotely": 100,
+  "Remotive": 15
+ },
+ "errors": [],
+ "sections": [
+  {
+   "title": "На български или търсят български език",
+   "jobs": []
+  },
+  {
+   "title": "Други дистанционни обяви (на английски)",
+   "jobs": [
+    {
+     "source": "We Work Remotely",
+     "key": "We Work Remotely:https://weworkremotely.com/remote-jobs/omni-interactions-us-only-learn-on-your-time-customer-support-16-hour-weekly-pay-1",
+     "url": "https://weworkremotely.com/remote-jobs/omni-interactions-us-only-learn-on-your-time-customer-support-16-hour-weekly-pay-1",
+     "title": "US ONLY! Learn on your time!! - Customer Support! $16+/hour - Weekly Pay",
+     "company": "Omni Interactions",
+     "city": "Anywhere in the World 🇺🇸 United States of America",
+     "salary": "",
+     "posted": "23 Nov 2026",
+     "until": "",
+     "remote": true,
+     "kind": "Contract",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": -1.1,
+     "level": "Лесна",
+     "hours": "part",
+     "first_seen": "2026-11-24",
+     "last_seen": "2026-11-24"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/clera/jobs/expert-annotation-specialist-2411866602",
+     "url": "https://himalayas.app/companies/clera/jobs/expert-annotation-specialist-2411866602",
+     "title": "Expert Annotation Specialist",
+     "company": "Clera",
+     "city": "Worldwide",
+     "salary": "40–75 USD",
+     "posted": "2026-11-24",
+     "until": "2027-01-23",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "AI / транскрипция"
+     ],
+     "flags": [
+      "изисква 5+ г. опит",
+      "обявата е на английски"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 7.8,
+     "level": "По-трудна",
+     "hours": "full",
+     "first_seen": "2026-11-24",
+     "last_seen": "2026-11-24"
+    }
+   ]
+  }
+ ]
+}
