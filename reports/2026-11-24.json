@@ -1,8 +1,8 @@
 {
  "date": "2026-11-24",
- "checked": "2026-11-24T08:31+02:00",
+ "checked": "2026-11-24T17:26+02:00",
  "sources": {
-  "zaplata.bg": 358,
+  "zaplata.bg": 366,
   "Himalayas": 297,
   "Jobicy": 100,
   "Remote OK": 100,
@@ -42,6 +42,33 @@
      "effort": -1.1,
      "level": "Лесна",
      "hours": "part",
+     "first_seen": "2026-11-24",
+     "last_seen": "2026-11-24"
+    },
+    {
+     "source": "Himalayas",
+     "key": "Himalayas:https://himalayas.app/companies/vbuzz-marketing/jobs/chat-support-specialist-digital-media-brands",
+     "url": "https://himalayas.app/companies/vbuzz-marketing/jobs/chat-support-specialist-digital-media-brands",
+     "title": "Chat Support Specialist — Digital Media Brands",
+     "company": "VBuzz Marketing",
+     "city": "Worldwide",
+     "salary": "1200–5000 USD/мес.",
+     "posted": "2026-11-24",
+     "until": "2026-12-24",
+     "remote": true,
+     "kind": "Full Time",
+     "roles": [
+      "Обслужване на клиенти"
+     ],
+     "flags": [
+      "обявата е на английски",
+      "работа по американско време, проверете часовете"
+     ],
+     "bulgarian": false,
+     "no_experience": false,
+     "effort": 3.2,
+     "level": "Средна",
+     "hours": "full",
      "first_seen": "2026-11-24",
      "last_seen": "2026-11-24"
     },

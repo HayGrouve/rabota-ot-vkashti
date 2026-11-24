@@ -103,33 +103,6 @@
   "first_seen": "2026-11-01",
   "last_seen": "2026-11-24"
  },
- "Himalayas:https://himalayas.app/companies/avedo-eine-marke-der-stroer-x-gmbh/jobs/customer-support-telekommunikation-m-w-d-homeoffice": {
-  "source": "Himalayas",
-  "key": "Himalayas:https://himalayas.app/companies/avedo-eine-marke-der-stroer-x-gmbh/jobs/customer-support-telekommunikation-m-w-d-homeoffice",
-  "url": "https://himalayas.app/companies/avedo-eine-marke-der-stroer-x-gmbh/jobs/customer-support-telekommunikation-m-w-d-homeoffice",
-  "title": "Customer Support Telekommunikation (m/w/d) Homeoffice",
-  "company": "Avedo - Eine Marke der Ströer X GmbH",
-  "city": "Bulgaria",
-  "salary": "1500–1500 EUR/мес.",
-  "posted": "2026-11-01",
-  "until": "2026-11-24",
-  "remote": true,
-  "kind": "Contractor",
-  "roles": [
-   "Обслужване на клиенти"
-  ],
-  "flags": [
-   "обявата е на английски",
-   "хибридна"
-  ],
-  "bulgarian": false,
-  "no_experience": false,
-  "effort": -0.8,
-  "level": "Лесна",
-  "hours": "freelance",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-24"
- },
  "Himalayas:https://himalayas.app/companies/kapres-technology-s-l/jobs/specialist-blue-yonder-formally-jda-dispatcher-remote": {
   "source": "Himalayas",
   "key": "Himalayas:https://himalayas.app/companies/kapres-technology-s-l/jobs/specialist-blue-yonder-formally-jda-dispatcher-remote",
@@ -684,6 +657,33 @@
   "effort": -1.1,
   "level": "Лесна",
   "hours": "part",
+  "first_seen": "2026-11-24",
+  "last_seen": "2026-11-24"
+ },
+ "Himalayas:https://himalayas.app/companies/vbuzz-marketing/jobs/chat-support-specialist-digital-media-brands": {
+  "source": "Himalayas",
+  "key": "Himalayas:https://himalayas.app/companies/vbuzz-marketing/jobs/chat-support-specialist-digital-media-brands",
+  "url": "https://himalayas.app/companies/vbuzz-marketing/jobs/chat-support-specialist-digital-media-brands",
+  "title": "Chat Support Specialist — Digital Media Brands",
+  "company": "VBuzz Marketing",
+  "city": "Worldwide",
+  "salary": "1200–5000 USD/мес.",
+  "posted": "2026-11-24",
+  "until": "2026-12-24",
+  "remote": true,
+  "kind": "Full Time",
+  "roles": [
+   "Обслужване на клиенти"
+  ],
+  "flags": [
+   "обявата е на английски",
+   "работа по американско време, проверете часовете"
+  ],
+  "bulgarian": false,
+  "no_experience": false,
+  "effort": 3.2,
+  "level": "Средна",
+  "hours": "full",
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24"
  }
