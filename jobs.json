@@ -527,32 +527,6 @@
   "first_seen": "2026-11-20",
   "last_seen": "2026-11-25"
  },
- "Himalayas:https://himalayas.app/companies/micro1/jobs/airline-customer-service-specialist": {
-  "source": "Himalayas",
-  "key": "Himalayas:https://himalayas.app/companies/micro1/jobs/airline-customer-service-specialist",
-  "url": "https://himalayas.app/companies/micro1/jobs/airline-customer-service-specialist",
-  "title": "Airline Customer Service Specialist",
-  "company": "micro1",
-  "city": "Worldwide",
-  "salary": "18–28 USD",
-  "posted": "2026-11-20",
-  "until": "2027-01-19",
-  "remote": true,
-  "kind": "Contractor",
-  "roles": [
-   "Обслужване на клиенти"
-  ],
-  "flags": [
-   "обявата е на английски"
-  ],
-  "bulgarian": false,
-  "no_experience": true,
-  "effort": -0.4,
-  "level": "Лесна",
-  "hours": "freelance",
-  "first_seen": "2026-11-20",
-  "last_seen": "2026-11-25"
- },
  "Himalayas:https://himalayas.app/companies/rws-group/jobs/ai-data-specialist-bulgarian": {
   "source": "Himalayas",
   "key": "Himalayas:https://himalayas.app/companies/rws-group/jobs/ai-data-specialist-bulgarian",
