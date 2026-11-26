@@ -1,8 +1,8 @@
 {
  "date": "2026-11-26",
- "checked": "2026-11-26T08:30+02:00",
+ "checked": "2026-11-26T16:36+02:00",
  "sources": {
-  "zaplata.bg": 358,
+  "zaplata.bg": 354,
   "Jobicy": 100,
   "Remote OK": 100,
   "Working Nomads": 38,
@@ -10,7 +10,7 @@
   "Remotive": 16
  },
  "errors": [
-  "Himalayas: HTTPError: HTTP Error 406: Not Acceptable"
+  "Himalayas: HTTPError: HTTP Error 429: Too Many Requests"
  ],
  "sections": [
   {
