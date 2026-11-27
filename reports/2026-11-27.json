@@ -1,16 +1,17 @@
 {
  "date": "2026-11-27",
- "checked": "2026-11-27T08:31+02:00",
+ "checked": "2026-11-27T16:30+02:00",
  "sources": {
-  "zaplata.bg": 361,
-  "Himalayas": 285,
+  "zaplata.bg": 359,
   "Jobicy": 100,
   "Remote OK": 100,
   "Working Nomads": 36,
   "We Work Remotely": 100,
-  "Remotive": 16
+  "Remotive": 17
  },
- "errors": [],
+ "errors": [
+  "Himalayas: HTTPError: HTTP Error 429: Too Many Requests"
+ ],
  "sections": [
   {
    "title": "На български или търсят български език",
